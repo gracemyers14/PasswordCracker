@@ -9,6 +9,7 @@ This project includes a simple brute-force password cracker using MD5 hashing.
 
 1. Open a terminal or command prompt.
 2. Navigate to the project directory.
-3. Run the script: `python brute_force.py`
-4. Enter the MD5 hash to crack when prompted.
+3. Run the script: `python3 brute_force.py`
+4. Enter the hash to crack when prompted.
+5. Choose your method for dehashing.
 
