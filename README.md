@@ -2,9 +2,6 @@
 A simple password cracking tool with support for MD5, BCrypt, and SHA-256
 
 
-
-This project includes a simple brute-force password cracker using MD5 hashing.
-
 ## How to Run
 
 1. Open a terminal or command prompt.
